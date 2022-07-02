@@ -1,0 +1,4 @@
+When the submit button is clicked..
+1. We send the response to the scraper.py file, it gets us the output of pImg,pName,pRating,pPrice.
+2. Insert it into MongoDB as objects.
+3. Use express to send the data from Mongo to react frontend.
