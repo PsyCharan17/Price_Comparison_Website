@@ -1,6 +1,6 @@
 # Price_Comparison_Website
 
-##In progress
+#In progress<br>
 A web app used to comapre prices of similar laptops from differnt ecommerce websites.
 Scraping the data of laptops from different websites such as Amazon and Flipkart to compare prices and make an informed decision on which website to buy the product from.
 Made using React,Flask,BeautifulSoup(Scrapper)
